@@ -24,9 +24,12 @@ You learn by building real **founder artifacts** — cap tables, runway models, 
 |------|-------|--------------|
 | **Startup Foundations** | 10 | [📗 startup-foundations](https://github.com/ai-startup-curriculum/startup-foundations) |
 | **Founder / CEO** | 20 | [📗 founder-ceo-curriculum](https://github.com/ai-startup-curriculum/founder-ceo-curriculum) |
+| **Co-Founder / CTO** | 25 | [📗 cto-curriculum](https://github.com/ai-startup-curriculum/cto-curriculum) |
 | **Startup Product & GTM** | 30 | [📗 startup-product-gtm-curriculum](https://github.com/ai-startup-curriculum/startup-product-gtm-curriculum) |
+| **Founding CPO / Head of Product** | 35 | [📗 cpo-curriculum](https://github.com/ai-startup-curriculum/cpo-curriculum) |
 | **Startup Finance & Fundraising** | 40 | [📗 startup-finance-fundraising-curriculum](https://github.com/ai-startup-curriculum/startup-finance-fundraising-curriculum) |
 | **Startup Operations & Governance** | 50 | [📗 startup-operations-governance-curriculum](https://github.com/ai-startup-curriculum/startup-operations-governance-curriculum) |
+| **Startup Exit & Endgame** | 60 | [📗 startup-exit-curriculum](https://github.com/ai-startup-curriculum/startup-exit-curriculum) |
 
 > Path index orders the curricula for the autonomous pipeline; it is **not** a seniority ladder — a founding PM is not "junior" to a CTO. **Start with [startup-foundations](https://github.com/ai-startup-curriculum/startup-foundations)**, then follow your role pathway.
 

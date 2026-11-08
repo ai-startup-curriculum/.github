@@ -1,8 +1,8 @@
 # Completeness Matrix: AI Startup Curriculum
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-08 by `aicg org completeness`._
 
-**Overall: 99%** across 8 role tracks · 74/75 modules complete
+**Overall: 100%** across 8 role tracks · 75/75 modules complete
 
 | Role | Level | Modules | Learning | Solutions | Overall | Status |
 |---|---|---|---|---|---|---|
@@ -12,9 +12,9 @@ _Generated 2026-11-03 by `aicg org completeness`._
 | [Startup Product & GTM](https://github.com/ai-startup-curriculum/startup-product-gtm-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L30 | 10/10 | 100% | n/a | `██████████` 100% | Complete |
 | [Founding CPO / Head of Product](https://github.com/ai-startup-curriculum/cpo-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L35 | 7/7 | 100% | n/a | `██████████` 100% | Complete |
 | [Startup Finance & Fundraising](https://github.com/ai-startup-curriculum/startup-finance-fundraising-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L40 | 11/11 | 100% | n/a | `██████████` 100% | Complete |
-| [Startup Operations & Governance](https://github.com/ai-startup-curriculum/startup-operations-governance-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L50 | 13/14 | 93% | n/a | `█████████░` 93% | In progress |
+| [Startup Operations & Governance](https://github.com/ai-startup-curriculum/startup-operations-governance-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L50 | 14/14 | 100% | n/a | `██████████` 100% | Complete |
 | [Startup Exit & Endgame](https://github.com/ai-startup-curriculum/startup-exit-curriculum/blob/main/COMPLETENESS_MATRIX.md) | L60 | 14/14 | 100% | n/a | `██████████` 100% | Complete |
-| **Total** | | **74/75** | | | **99%** | |
+| **Total** | | **75/75** | | | **100%** | |
 
 ## How this is calculated
 
